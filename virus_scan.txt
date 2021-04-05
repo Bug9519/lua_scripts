@@ -5,12 +5,12 @@ ex1_hello.lua: https://www.virustotal.com/gui/file/98427402728ef0d3d34a6547ac6b5
 ex2_comments.lua: https://www.virustotal.com/gui/file/0c5112fc94e75dbb868827081c95b63f5b1d56d21bc239449d65aacbb3eecc1d/detection
 ex3_variables.lua: https://www.virustotal.com/gui/file/7f44fb6f6b4eb0a8d91210885da74a03b19069b14f3b0e02d8ff5a17dd983e57/detection
 ex4_variablenames.lua: https://www.virustotal.com/gui/file/1d298903126366bed32dc2c9c0f4104009db649eb7a9669fe7577087459d8724/detection
-ex5_morevariablenames.lua: 
-ex6_casesensitive.lua: 
-ex7_keywords.lua: 
-ex8_strings.lua: 
-ex9_assignments.lua: 
-ex10_moreassignments.lua: 
+ex5_morevariablenames.lua: https://www.virustotal.com/gui/file/25d7f591e282da2466dac8bf3190ff7545a54ce9c57fe18ebb0c85b30872d9fa/detection
+ex6_casesensitive.lua: https://www.virustotal.com/gui/file/328d606184f6fc45e32ce706cea5629f0a69b01aced4586fc42f41ef4150eda0/detection
+ex7_keywords.lua: https://www.virustotal.com/gui/file/78cf0025c8ad0a1b9f6752d17c1f3042f34afc83740b4defc6f485fc4a5a681d/detection
+ex8_strings.lua: https://www.virustotal.com/gui/file/ab4ca9aab902ef004a913176ded61e99fb3e29b4d66cad420d2247c74589c51d/detection
+ex9_assignments.lua: https://www.virustotal.com/gui/file/795ee9f2b2f51787ab0e95220c4aa851b5d13afa7e6bc5c61aeaa551571fe2d0/detection
+ex10_moreassignments.lua: https://www.virustotal.com/gui/file/dac84507bfabcf309d5606ac5e990ad0f9b179f30f1ce1a3ad50223271f7796b/detection
 ex11_numbers.lua: 
 ex12_moreoutput.lua: 
 ex13_moreoutput.lua: 
