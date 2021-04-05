@@ -1,0 +1,1 @@
+Test file for adding scripts to a folder.
