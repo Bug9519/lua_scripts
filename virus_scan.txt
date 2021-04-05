@@ -1,0 +1,42 @@
+I ran these files through VirusTotal, so that people know they aren't viruses (virii?).
+
+bug9519_lua_scripts.zip: https://www.virustotal.com/gui/file/58fd18b2c1eabae2e4a00f501bc7065d4f5e6561ed055875ab897f990b7ecf3d/detection
+ex1_hello.lua: https://www.virustotal.com/gui/file/98427402728ef0d3d34a6547ac6b51a4aeccfbc897d95a84e49c4c894c8f3baa/detection
+ex2_comments.lua: https://www.virustotal.com/gui/file/0c5112fc94e75dbb868827081c95b63f5b1d56d21bc239449d65aacbb3eecc1d/detection
+ex3_variables.lua: https://www.virustotal.com/gui/file/7f44fb6f6b4eb0a8d91210885da74a03b19069b14f3b0e02d8ff5a17dd983e57/detection
+ex4_variablenames.lua: https://www.virustotal.com/gui/file/1d298903126366bed32dc2c9c0f4104009db649eb7a9669fe7577087459d8724/detection
+ex5_morevariablenames.lua: 
+ex6_casesensitive.lua: 
+ex7_keywords.lua: 
+ex8_strings.lua: 
+ex9_assignments.lua: 
+ex10_moreassignments.lua: 
+ex11_numbers.lua: 
+ex12_moreoutput.lua: 
+ex13_moreoutput.lua: 
+ex14_tables.lua: 
+ex15_moretables.lua: 
+ex16_if.lua: 
+ex17_ifelse.lua: 
+ex18_ifelseifelse.lua: 
+ex19_conditionalassignment.lua: 
+ex20_while.lua: 
+ex21_repeatuntil.lua: 
+ex22_for.lua: 
+ex23_morefor.lua: 
+ex24_printtables.lua: 
+ex25_break.lua: 
+ex26_functions.lua: 
+ex27_morefunctions.lua: 
+ex28_evenmorefunctions.lua: 
+ex29_variablescopingandfunctions.lua: 
+ex30_formattedprinting.lua: 
+ex31_libraries.lua: 
+ex32_standardlibraries_math.lua: 
+ex33_standardlibraries_string.lua: 
+ex34_standardlibraries_table.lua: 
+ex35_standardlibraries_io.lua: 
+ex36_standardlibraries_os.lua: 
+ex37_externallibraries.lua: 
+ex38_extralearning.lua: 
+hello.lua: 
